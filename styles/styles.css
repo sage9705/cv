@@ -1,0 +1,16 @@
+body {
+  background-color: #EAF6f6;
+}
+
+p {
+  text-align: center;
+  font-size: 30px;
+}
+
+footer {
+  margin: 350px;
+}
+
+hr {
+  margin: auto 2em 2em auto;
+}
